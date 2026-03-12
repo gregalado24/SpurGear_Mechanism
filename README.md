@@ -1,7 +1,7 @@
 ## Simple Spur Gear Train Mechanism
 
 <p align="center">
-  <img src="" width="600"/>
+  <img src="gear_assembly.jpg" width="600"/>
 </p>
 
 ### Overview
