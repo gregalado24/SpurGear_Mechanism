@@ -105,7 +105,7 @@ The velocity vs time plot confirms the expected mechanical behavior of the syste
 ![Exploded](https://github.com/gregalado24/SpurGear_Mechanism/blob/7477d3e6b881f928def3c49a5f2ce8fef67a551f/exploded_view.gif)
 
 #### Mechanism Motion
-![Motion](gear_motion.gif)
+![Motion](https://github.com/gregalado24/SpurGear_Mechanism/blob/4b6f478a3ab8d2d1287670a56157da6f70f05961/gear_motion.gif)
 
 ---
 
